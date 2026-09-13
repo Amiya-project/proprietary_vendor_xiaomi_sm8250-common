@@ -324,6 +324,7 @@ PRODUCT_PACKAGES += \
     libdisplayqos \
     libdisplayskuutils \
     libdpmqmihal \
+    libdpps \
     libdrmfs \
     libdrmtime \
     libdsi_netctrl \
@@ -373,6 +374,7 @@ PRODUCT_PACKAGES += \
     libqdi \
     libqdma_file_agent \
     libqdp \
+    libqdutils \
     libqisl \
     libqmi \
     libqmi_cci \
@@ -385,6 +387,7 @@ PRODUCT_PACKAGES += \
     libqmiservices \
     libqrtr \
     libqseed3 \
+    libqservice \
     libqsocket \
     libqtikeymaster4 \
     librcc \

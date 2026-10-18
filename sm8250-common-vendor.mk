@@ -161,6 +161,7 @@ PRODUCT_PACKAGES += \
     libllvm-glnext \
     libllvm-qcom \
     libmdsprpc \
+    libqc2vppfilter \
     libscveCommon \
     libscveCommon_stub \
     libscveObjectSegmentation \
@@ -175,9 +176,11 @@ PRODUCT_PACKAGES += \
     libvpphvx \
     libvpplibrary \
     vendor.qti.hardware.dsp@1.0 \
+    vendor.qti.hardware.qconfig@1.0 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
+    vendor.qti.hardware.vpp@2.0 \
     btaudio_offload_if \
     sound_trigger.primary.kona \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
